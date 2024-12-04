@@ -7,7 +7,6 @@ forms and form submissions. The process will involve:
 3. Entering passenger information.
 
 This project will provide practice with:
-1. dropdown 
-2. menus
-3. radio buttons and
-4. nested forms.
+1. dropdown menus
+2. radio buttons and
+3. nested forms.
